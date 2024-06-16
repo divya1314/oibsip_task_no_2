@@ -1,5 +1,5 @@
 
-### README for McDonald's Menu Nutrition Analysis
+ McDonald's Menu Nutrition Analysis
 
 ---
 
@@ -44,7 +44,7 @@ This project analyzes nutritional data from McDonald's menu items using Python a
 
 ---
 
-### README for Walmart Sales Data Analysis
+ Walmart Sales Data Analysis
 
 ---
 
